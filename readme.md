@@ -1,5 +1,13 @@
 ## Django Template
 
+
+### Start
+To start server:
+-  `python3 manage.py runserver`
+
+This template is a guide from:
+- [Tech With Tim - Video](https://www.youtube.com/watch?v=c-QsfbznSXI)
+
 ### Evironment
 To start local env:
 - `source env/bin/activate`

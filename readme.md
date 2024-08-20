@@ -2,7 +2,11 @@
 
 
 ### Start
+
+First run the environment steps
+
 To start server:
+Go into `backend folder and run this command
 -  `python3 manage.py runserver`
 
 This template is a guide from:
